@@ -51,6 +51,6 @@ h2 {font-family: 'Montserrat', sans-serif;}
 }
 
 #outputCanvas{
-
   background-image: url(pexels-tima-miroshnichenko-6612173.jpg);
+  background-size: cover;
 }
